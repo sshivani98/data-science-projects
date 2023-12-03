@@ -1,0 +1,1 @@
+A python CLI tool to analyse job descriptions
